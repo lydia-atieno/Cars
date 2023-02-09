@@ -181,7 +181,9 @@ html{
     opacity: ;
     font-style: italic;
     font-weight: 500;
-    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: .1rem;
+   font-family: 'Sacramento', cursive;
+    /*font-family: 'Times New Roman', Times, serif;*/
 }
 #footer p{
     font-size: 0.8rem;
