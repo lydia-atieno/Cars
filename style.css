@@ -140,7 +140,7 @@ html{
 
 /*title section*/
 #title{
-    background-image: url(file:///C:/Users/user/Desktop/Cars/img/bk2.jpg);
+    background-image: url(https://github.com/lydia-atieno/Cars/blob/master/img/bk2.jpg?raw=true);
     background-size: cover;
     background-position: center, center;
     position: relative;
