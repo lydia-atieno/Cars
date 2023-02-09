@@ -154,7 +154,7 @@ html{
     height: 100%;
     background-color: black;
     position: absolute;
-    opacity: .7;
+    opacity: .8;
     z-index: -1;
 }
 #title h1{
