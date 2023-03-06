@@ -36,3 +36,10 @@ html{
     align-items: center;
     justify-content: center;
 }
+/*Media Query For Desktop*/
+@media only screen and (min-width: 1200px){
+    .image-items{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
